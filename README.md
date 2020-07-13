@@ -1,3 +1,3 @@
-# brazilian_houses_searcher
+# brazilian_houses
 
 Study and analyses about brazilian houses in different cities
